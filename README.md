@@ -1,1 +1,1 @@
-# This is a first repo by me.And I am learning.
+# This is a first repo by me.
